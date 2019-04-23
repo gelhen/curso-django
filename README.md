@@ -1,6 +1,8 @@
 # curso-django
 Código desenvolvido no módulo de Django do Site Python Pro
 
+Aplicação disponivel em https://pythonprodjango-andre.herokuapp.com/
+
 [![Build Status](https://travis-ci.org/gelhen/curso-django.svg?branch=master)](https://travis-ci.org/gelhen/curso-django)
 [![codecov](https://codecov.io/gh/gelhen/curso-django/branch/master/graph/badge.svg)](https://codecov.io/gh/gelhen/curso-django)
 [![Updates](https://pyup.io/repos/github/gelhen/curso-django/shield.svg)](https://pyup.io/repos/github/gelhen/curso-django/)
