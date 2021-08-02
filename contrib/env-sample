@@ -8,3 +8,12 @@ AWS_SECRET_ACCESS_KEY=
 AWS_STORAGE_BUCKET_NAME=
 INTERNAL_IPS=127.0.0.1
 SENTRY_DSN=
+
+#conficuracao do email
+EMAIL_BACKEND=django.core.mail.backends.console.EmailBackend
+EMAIL_HOST=smtp.gmail.com
+EMAIL_PORT=587
+EMAIL_USE_TLS=False
+EMAIL_USE_SSL=True
+EMAIL_HOST_USER=gelhen@gmail.com
+EMAIL_HOST_PASSWORD=
