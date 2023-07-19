@@ -309,11 +309,8 @@
             "version": "==3.10.0.0"
         },
         "urllib3": {
-            "hashes": [
-                "sha256:39fb8672126159acb139a7718dd10806104dec1e2f0f6c88aab05d17df10c8d4",
-                "sha256:f57b4c16c62fa2760b7e3d97c35b255512fb6b59a259730f36ba32ce9f8e342f"
-            ],
-            "version": "==1.26.6"
+            "hashes": [],
+            "version": "==2.0.4"
         },
         "wcwidth": {
             "hashes": [
@@ -560,11 +557,8 @@
             "version": "==0.10.2"
         },
         "urllib3": {
-            "hashes": [
-                "sha256:39fb8672126159acb139a7718dd10806104dec1e2f0f6c88aab05d17df10c8d4",
-                "sha256:f57b4c16c62fa2760b7e3d97c35b255512fb6b59a259730f36ba32ce9f8e342f"
-            ],
-            "version": "==1.26.6"
+            "hashes": [],
+            "version": "==2.0.4"
         }
     }
 }
